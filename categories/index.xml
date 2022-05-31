@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tài Liệu IUH</title>
-    <link>/categories/</link>
+    <link>https://taicutm.github.io/webiuh-site/categories/</link>
     <description>Recent content in Categories on Tài Liệu IUH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://taicutm.github.io/webiuh-site/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IUH</title>
-      <link>/categories/iuh/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/iuh/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/iuh/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/iuh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>releases</title>
-      <link>/categories/releases/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/releases/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/releases/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/releases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTMT</title>
-      <link>/categories/htmt/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/htmt/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/categories/htmt/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/htmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQLSERVER</title>
-      <link>/categories/sqlserver/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/sqlserver/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sqlserver/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/sqlserver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>features</title>
-      <link>/categories/features/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/features/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/features/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>/categories/java/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/java/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/java/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>/categories/web/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/web/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/categories/web/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OOP</title>
-      <link>/categories/oop/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/oop/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/oop/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/oop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phapluat</title>
-      <link>/categories/phapluat/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/phapluat/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/phapluat/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/phapluat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CTRR</title>
-      <link>/categories/ctrr/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/ctrr/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/ctrr/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/ctrr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ATTT</title>
-      <link>/categories/attt/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/attt/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/attt/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/attt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>/categories/c/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/c/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/c/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UML</title>
-      <link>/categories/uml/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/uml/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/uml/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/uml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
-      <link>/categories/tranquilpeak/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/tranquilpeak/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tranquilpeak/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>/categories/sql/</link>
+      <link>https://taicutm.github.io/webiuh-site/categories/sql/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sql/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/categories/sql/</guid>
       <description></description>
     </item>
     

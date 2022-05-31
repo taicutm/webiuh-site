@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tài Liệu IUH</title>
-    <link>/tags/</link>
+    <link>https://taicutm.github.io/webiuh-site/tags/</link>
     <description>Recent content in Tags on Tài Liệu IUH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://taicutm.github.io/webiuh-site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IUH</title>
-      <link>/tags/iuh/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/iuh/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/iuh/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/iuh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AECayKhe</title>
-      <link>/tags/aecaykhe/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/aecaykhe/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/aecaykhe/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/aecaykhe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTMT</title>
-      <link>/tags/htmt/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/htmt/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tags/htmt/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/htmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQLSERVER</title>
-      <link>/tags/sqlserver/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/sqlserver/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sqlserver/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/sqlserver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Youtube</title>
-      <link>/tags/youtube/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/youtube/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/youtube/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/youtube/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>/tags/java/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/java/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/java/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>/tags/web/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/web/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/web/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/web/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OOP</title>
-      <link>/tags/oop/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/oop/</link>
       <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/oop/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/oop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phapluat</title>
-      <link>/tags/phapluat/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/phapluat/</link>
       <pubDate>Sun, 17 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/phapluat/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/phapluat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CTRR</title>
-      <link>/tags/ctrr/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/ctrr/</link>
       <pubDate>Sat, 16 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ctrr/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/ctrr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ATTT</title>
-      <link>/tags/attt/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/attt/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/attt/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/attt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C</title>
-      <link>/tags/c/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/c/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/c/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UML</title>
-      <link>/tags/uml/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/uml/</link>
       <pubDate>Wed, 02 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>/tags/uml/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/uml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image gallery</title>
-      <link>/tags/image-gallery/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/image-gallery/</link>
       <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/tags/image-gallery/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/image-gallery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQL</title>
-      <link>/tags/sql/</link>
+      <link>https://taicutm.github.io/webiuh-site/tags/sql/</link>
       <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sql/</guid>
+      <guid>https://taicutm.github.io/webiuh-site/tags/sql/</guid>
       <description></description>
     </item>
     
