@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>features on Tài Liệu IUH</title>
+    <link>/categories/features/</link>
+    <description>Recent content in features on Tài Liệu IUH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="/categories/features/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập Trình Hướng Sự Kiện Với Công Nghệ Java</title>
+      <link>/2015/05/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-s%E1%BB%B1-ki%E1%BB%87n-v%E1%BB%9Bi-c%C3%B4ng-ngh%E1%BB%87-java/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-s%E1%BB%B1-ki%E1%BB%87n-v%E1%BB%9Bi-c%C3%B4ng-ngh%E1%BB%87-java/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Lập Trình Hướng Sự Kiện Với Công Nghệ Java Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe( Nguyễn Đức Tài )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mạng Máy Tính</title>
+      <link>/2013/02/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/</link>
+      <pubDate>Mon, 18 Feb 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/02/m%E1%BA%A1ng-m%C3%A1y-t%C3%ADnh/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Mạng Máy Tính Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe( Nguyễn Xuân Long )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hệ Quản Trị Cơ Sở Dữ Liệu SQL</title>
+      <link>/2013/01/h%E1%BB%87-qu%E1%BA%A3n-tr%E1%BB%8B-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u-sql/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/01/h%E1%BB%87-qu%E1%BA%A3n-tr%E1%BB%8B-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u-sql/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Hệ Quản Trị Cơ Sở Dữ Liệu Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe( Nguyễn Xuân Long )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

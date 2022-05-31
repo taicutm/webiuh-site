@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQLSERVER on Tài Liệu IUH</title>
+    <link>/categories/sqlserver/</link>
+    <description>Recent content in SQLSERVER on Tài Liệu IUH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="/categories/sqlserver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hệ Cơ Sở Dữ Liệu </title>
+      <link>/2015/05/h%E1%BB%87-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/05/h%E1%BB%87-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Hệ Cơ Sở Dữ Liệu Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe(Nguyễn Xuân Long , Nguyễn Đức Tài )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

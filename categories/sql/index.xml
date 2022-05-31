@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on Tài Liệu IUH</title>
+    <link>/categories/sql/</link>
+    <description>Recent content in SQL on Tài Liệu IUH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2013 00:00:00 +0000</lastBuildDate><atom:link href="/categories/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hệ Quản Trị Cơ Sở Dữ Liệu SQL</title>
+      <link>/2013/01/h%E1%BB%87-qu%E1%BA%A3n-tr%E1%BB%8B-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u-sql/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/2013/01/h%E1%BB%87-qu%E1%BA%A3n-tr%E1%BB%8B-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u-sql/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Hệ Quản Trị Cơ Sở Dữ Liệu Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe( Nguyễn Xuân Long )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

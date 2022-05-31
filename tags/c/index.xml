@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Tài Liệu IUH</title>
+    <link>/tags/c/</link>
+    <description>Recent content in C on Tài Liệu IUH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Aug 2014 00:00:00 +0000</lastBuildDate><atom:link href="/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cấu Trúc Dữ Liệu Và Giải Thuật</title>
+      <link>/2014/08/c%E1%BA%A5u-tr%C3%BAc-d%E1%BB%AF-li%E1%BB%87u-v%C3%A0-gi%E1%BA%A3i-thu%E1%BA%ADt/</link>
+      <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/2014/08/c%E1%BA%A5u-tr%C3%BAc-d%E1%BB%AF-li%E1%BB%87u-v%C3%A0-gi%E1%BA%A3i-thu%E1%BA%ADt/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Cấu Trúc Dữ Liệu Và Giải Thuật Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe( Nguyễn Xuân Long )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
