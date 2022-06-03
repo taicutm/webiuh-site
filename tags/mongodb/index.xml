@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MongoDB on Tài Liệu IUH</title>
+    <link>https://taicutm.github.io/webiuh-site/tags/mongodb/</link>
+    <description>Recent content in MongoDB on Tài Liệu IUH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://taicutm.github.io/webiuh-site/tags/mongodb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hệ Quản Trị Cơ Sở Dữ Liệu NoSQL MongoDB</title>
+      <link>https://taicutm.github.io/webiuh-site/2015/05/h%E1%BB%87-qu%E1%BA%A3n-tr%E1%BB%8B-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u-nosql-mongodb/</link>
+      <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://taicutm.github.io/webiuh-site/2015/05/h%E1%BB%87-qu%E1%BA%A3n-tr%E1%BB%8B-c%C6%A1-s%E1%BB%9F-d%E1%BB%AF-li%E1%BB%87u-nosql-mongodb/</guid>
+      <description>&lt;p&gt;Tài Liệu Môn Hệ quản trị cơ sở dữ liệu NoSQL MongoDB Trường Đại Học Công Nghiệp TPHCM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Author&lt;/strong&gt; : AECayKhe( Nguyễn Xuân Long )&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
